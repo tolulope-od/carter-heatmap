@@ -1,10 +1,18 @@
 import React from 'react';
+import { Provider } from 'react-redux';
+
+import store from '../redux';
+import Grid from './Grid';
+
+import '../styles/app.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>This is the react app</h1>
-    </div>
+    <Provider store={store}>
+      <div className="App">
+        <Grid />
+      </div>
+    </Provider>
   );
 }
 

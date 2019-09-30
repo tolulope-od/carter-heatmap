@@ -35,8 +35,14 @@ $ cd calendar-heatmap
 # install the dependencies
 $ npm install
 
-# Strat the development sever
+# Start the development sever
 $ npm run dev
+
+# Build out app for production
+$ npm run build
+
+# Serve app with production server
+$ npm start
 ```
 
 Upon running the last command, a new browser window should be opened at `localhost:8080` on your machine.

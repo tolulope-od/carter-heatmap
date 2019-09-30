@@ -4,8 +4,13 @@ A simple heatmap app made with react
 
 # Table of Contents
 
-1. <a href="#tech-stack-used">Tech Stack Used</a>
-2. <a href="#getting-started">Getting Started</a>
+1. <a href="#hosted-app">Link To Hosted App</a>
+2. <a href="#tech-stack-used">Tech Stack Used</a>
+3. <a href="#getting-started">Getting Started</a>
+
+## Link To Hosted App
+
+https://festive-joliot-270e55.netlify.com
 
 ## Tech Stack Used
 
@@ -35,8 +40,14 @@ $ cd calendar-heatmap
 # install the dependencies
 $ npm install
 
-# Strat the development sever
+# Start the development sever
 $ npm run dev
+
+# Build out app for production
+$ npm run build
+
+# Serve app with production server
+$ npm start
 ```
 
 Upon running the last command, a new browser window should be opened at `localhost:8080` on your machine.

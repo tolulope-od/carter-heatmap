@@ -4,8 +4,13 @@ A simple heatmap app made with react
 
 # Table of Contents
 
-1. <a href="#tech-stack-used">Tech Stack Used</a>
-2. <a href="#getting-started">Getting Started</a>
+1. <a href="#hosted-app">Link To Hosted App</a>
+2. <a href="#tech-stack-used">Tech Stack Used</a>
+3. <a href="#getting-started">Getting Started</a>
+
+## Link To Hosted App
+
+https://festive-joliot-270e55.netlify.com
 
 ## Tech Stack Used
 
